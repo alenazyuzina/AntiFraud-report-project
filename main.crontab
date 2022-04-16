@@ -1,0 +1,5 @@
+# * * * * * /usr/bin/python inants/main.py
+# * * * * * /usr/bin/python s_25/main.py
+# * * * * * /usr/bin/python s_20/test.py
+# 59 23 * * * /usr/bin/python s_06/main.py
+
